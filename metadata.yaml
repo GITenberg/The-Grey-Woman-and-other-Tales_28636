@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/220
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28636#The-Grey-Woman-and-other-Tales
 gutenberg_issued: '2009-04-29'
 gutenberg_type: Text
 identifiers:
