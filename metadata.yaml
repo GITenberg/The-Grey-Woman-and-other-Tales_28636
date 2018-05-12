@@ -1,0 +1,37 @@
+_repo: The-Grey-Woman-and-other-Tales_28636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Stevenson, Elizabeth
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Mrs.
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Mills, Cotton Mather
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: ''
+gutenberg_issued: '2009-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+tableOfContents: The grey woman -- Curious if true -- Six weeks at Heppenheim -- Libbie
+  Marsh's three eras -- Christmas storms and sunshine -- Hand and heart -- Bessy's
+  troubles at home -- Disappearances.
+title: The Grey Woman and other Tales
+url: http://www.gutenberg.org/ebooks/28636
